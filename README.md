@@ -35,7 +35,8 @@
  # **Link**
 [F1 cars](https://en.wikipedia.org/wiki/Formula_One_car)
 
-# **Table**
+# **Table**     
+     
 |Name|Branch|College|    
 |------|-----|-----|   
 |AVINASH|CSE|VRSEC|    
@@ -51,5 +52,5 @@ def iseven(n):
 ```    
 ~~The world is flat.~~
 
-:checkered_flag::racehorse::tada::bulb::bug::tada:
+:checkered_flag::racehorse::tada::bulb::bug::tada:    
 > This is the end of my readme file
