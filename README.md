@@ -36,10 +36,10 @@
 [F1 cars](https://en.wikipedia.org/wiki/Formula_One_car)
 
 # **Table**
-|Name|Branch|College|
-|------|-----|-----|
-|AVINASH|CSE|VRSEC|
-|Srikar|CSE|VRSEC|
+|Name|Branch|College|    
+|------|-----|-----|   
+|AVINASH|CSE|VRSEC|    
+|Srikar|CSE|VRSEC|    
 
 # **Code**
 ```python
